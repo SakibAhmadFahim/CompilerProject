@@ -1,2 +1,1 @@
-# CompilerProject
-3rd Year 2nd Semester Compiler Project
+# Mini-Compiler-With-Flex-and-Bison
